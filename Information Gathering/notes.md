@@ -18,6 +18,7 @@ nmap -p 1-65535 192.168.1.1
 
 nmapAutomator scan everything to the target IP
 ./nmapAutomator.sh --host 192.168.1.1 --type All
+
 https://github.com/21y4d/nmapAutomator
 
 nmap reference book :
